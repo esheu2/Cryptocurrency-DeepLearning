@@ -1,1 +1,1 @@
-# Cryptocurrency_DeepLearning
+# Cryptocurrency Deep Learning Project
