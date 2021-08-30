@@ -3,6 +3,8 @@ import numpy as np
 
 BTCcsv = pd.read_csv('data/BTC-USD.csv')
 
-BTCdata = np.array(BTCcsv)
+BTCdata = np.array(BTCcsv).astype(float)
+
+print(BTCdata[0])
 
 
